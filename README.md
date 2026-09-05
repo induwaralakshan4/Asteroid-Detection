@@ -5,7 +5,7 @@
 ## 🎥 Project Demo
 
 <!-- Upload your project video to GitHub and replace the URL below -->
-https://github.com/user-attachments/assets/YOUR-VIDEO-ID
+https://github.com/user-attachments/assets/544f9cfb-a868-444f-9f46-5f5357cc8a75
 
 ---
 
